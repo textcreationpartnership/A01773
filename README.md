@@ -35,18 +35,27 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The Hollander A comedy written 1635. The author Henry Glapthorne. And now printed as it was then act
+
+1. The Persons in the Play.
+
+1. To the great hope of growing
+noblenesse, my Honourable
+friend, Sir Thomas Fisher,
+Knight, &c.
+
 #####Body#####
 
-1. Actus primus. Scena prima.
+1. The Hollander.
 
-1. Actus secundus. Scena prima.
+    _ Actus primus. Scena prima.
 
-1. Actus Tertius, Scena Prima.
+    _ Actus secundus. Scena prima.
 
-1. Actus Quartus, Scena prima.
+    _ Actus Tertius, Scena Prima.
 
-1. Actus Quintus, Scena prima.
+    _ Actus Quartus, Scena prima.
+
+    _ Actus Quintus, Scena prima.
 
 **Types of content**
 
